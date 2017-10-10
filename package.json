@@ -1,0 +1,10 @@
+{
+	"name": "magazine-assistant",
+	"description":"Magazine Assistant",
+	"version":"2.0.0",
+	"dependencies": {
+		"express": "^4.16.1",
+		"mongoose": "^4.12.0",
+		"body-parser": "^1.18.2"
+	}
+}
